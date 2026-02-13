@@ -1,5 +1,5 @@
-# our new_day project
-# Simge Akinci  -  Doğukan Şendoğan  -  Umut Polat
+#new_day project
+Doğukan Şendoğan 
 
 A new Flutter project.
 
