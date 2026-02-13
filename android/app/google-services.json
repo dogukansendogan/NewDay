@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298296892134",
+    "project_id": "newday-b915e",
+    "storage_bucket": "newday-b915e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298296892134:android:a1d81b72c85c7ebedbf927",
+        "android_client_info": {
+          "package_name": "com.dogu.new_day"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaIEzX4nRqORp9F-dMedpQ1St6cITbfcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
